@@ -114,23 +114,28 @@ pipeline {
 
 ### 🔹 Jenkins Dashboard
 
-![Dashboard](screenshots/jenkins-dashboard.png)
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 113924" src="https://github.com/user-attachments/assets/cdddc465-e4e4-4dc1-bdc0-78509540a1ce" />
+
 
 ### 🔹 Jenkins Agent (node-1)
 
-![Agent](screenshots/jenkins-node.png)
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 114033" src="https://github.com/user-attachments/assets/7b35e6b5-93b2-44eb-af2b-365f1201b1dd" />
+
 
 ### 🔹 Pipeline Execution
 
-![Pipeline](screenshots/jenkins-pipeline.png)
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 114001" src="https://github.com/user-attachments/assets/e1512ff0-a0c2-44c6-82e1-503ff884e6c2" />
+
 
 ### 🔹 Console Output
 
-![Console](screenshots/jenkins-console.png)
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 114015" src="https://github.com/user-attachments/assets/40dbd3cd-db23-4c77-a091-5e99a11f6294" />
+
 
 ### 🔹 Nodes Overview
 
-![Nodes](screenshots/jenkins-nodes.png)
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 113941" src="https://github.com/user-attachments/assets/af65175b-1f57-496e-8ffb-ca0b62de2cb3" />
+
 
 ---
 
